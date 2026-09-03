@@ -43,7 +43,7 @@ body {
 
 .product-desc .bg-img {
     min-height: 100vh;
-    background-image: url(../../../img/bg/seiko-aesthetic.jpg);
+    background-image: url(../../../img/bg/seiko-aesthetic.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

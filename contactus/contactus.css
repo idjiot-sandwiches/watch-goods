@@ -21,7 +21,7 @@ body {
 
 .header {
     display: flex;
-    background-image: url(../../img/bg/locations-bg.jpg);
+    background-image: url(../../img/bg/locations-bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 20vh;
