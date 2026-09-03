@@ -1,4 +1,4 @@
-<p align="center"><img src="img/icon-black.png" /></p>
+<p align="center"><img src="img/icon-black.webp" /></p>
 
 ## About WatcHGoods
 <i>WatcHGoods is home to the greatest collection of used luxury watches, all certified as authentic and Collector Quality. With the growth of information technology, WatcHGoods plans to dive into the digital business world.</i>
